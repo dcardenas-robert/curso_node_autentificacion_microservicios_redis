@@ -1,0 +1,14 @@
+{
+  "name": "curso_de_node_autenticacion_microservicios_y_redis",
+  "version": "1.0.0",
+  "description": "Curso de node autentificacion, microservicios y redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
